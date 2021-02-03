@@ -5,6 +5,8 @@
 
 
 ### [The original article here.](https://creately.com/blog/diagrams/class-diagram-tutorial)
+<br/>
+
 
 At the heart of any object-oriented system is the step of designing the class structure - therefore the saying goes that class diagrams are the most popular out the UML diagram types.
 
@@ -16,7 +18,7 @@ In this easy class diagram tutorial, we've covered the key areas you need to kno
 
 > 在这篇简易类图教程中，我们覆盖了不会艰难地进行画类图你需要知道的一些关键的领域，鼠标向下滚动去查看。
 
-
+<br/>
 
 - [The Easy Guide to UML Class Diagrams | Class Diagram Tutorial](#the-easy-guide-to-uml-class-diagrams--class-diagram-tutorial)
   - [The original article here.](#the-original-article-here)
@@ -26,7 +28,7 @@ In this easy class diagram tutorial, we've covered the key areas you need to kno
   - [Class Diagram Best Practices](#class-diagram-best-practices)
   - [Class Diagram Examples / Templates](#class-diagram-examples--templates)
 
-
+<br/>
 
 ### Class Diagram Definition | What is a Class Diagram?
 
