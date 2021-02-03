@@ -2,7 +2,7 @@
 
 > ### UML类图简易指导｜ 类图教程
 
-
+<br/>
 
 ### [The original article here.](https://creately.com/blog/diagrams/class-diagram-tutorial)
 <br/>
@@ -20,7 +20,6 @@ In this easy class diagram tutorial, we've covered the key areas you need to kno
 
 <br/>
 
-- [The Easy Guide to UML Class Diagrams | Class Diagram Tutorial](#the-easy-guide-to-uml-class-diagrams--class-diagram-tutorial)
   - [The original article here.](#the-original-article-here)
   - [Class Diagram Definition | What is a Class Diagram?](#class-diagram-definition--what-is-a-class-diagram)
   - [Class Diagram Notations with Examples](#class-diagram-notations-with-examples)
