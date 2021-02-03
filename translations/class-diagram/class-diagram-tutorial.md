@@ -4,7 +4,7 @@
 
 <br/>
 
-### [原文链接]](https://creately.com/blog/diagrams/class-diagram-tutorial)
+### [原文链接](https://creately.com/blog/diagrams/class-diagram-tutorial)
 <br/>
 
 
