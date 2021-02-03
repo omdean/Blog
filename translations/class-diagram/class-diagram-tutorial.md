@@ -4,7 +4,7 @@
 
 <br/>
 
-### [The original article here.](https://creately.com/blog/diagrams/class-diagram-tutorial)
+### [原文链接]](https://creately.com/blog/diagrams/class-diagram-tutorial)
 <br/>
 
 
@@ -29,6 +29,9 @@ In this easy class diagram tutorial, we've covered the key areas you need to kno
 <br/>
 
 ### Class Diagram Definition | What is a Class Diagram?
+> 类图的定义｜什么是类图？
+
+
 A class diagram is a UML diagram type that describes a system by visualizing the different types of objects within a system and the kinds of static relationships that exist among them. It also illustrates the operations and attributes of the classes.
 
 > 类图一种通过可视化的方式描述一个系统内不同类型的对象和存在与它们之中的各种静态关系的UML图表。它同样说明类的一些操作和属性。
