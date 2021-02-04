@@ -124,7 +124,7 @@ First, add the class names and link them with the appropriate connectors. You ca
 ### Class Diagram Best Practices
 
 - Class diagrams may tend to get incoherent as they expand and grow. It's best to avoid creating large diagrams and breaking them down into smaller ones that you can link to each other later. You can very easily do this with Creately. It helps you improve the readability of your diagrams.
-  > 随着展开和增长，类图可能会有难以分辨的趋势。最好的方式是避免创建过大的图并且将它们 拆分成更小的单元以便后面可以将它们链接起来。你可以使用Creately(一个工具平台)轻松做到。它会帮助你提高你的图的可读性。
+  > 随着展开和增长，类图可能会有难以分辨的趋势。最好的方式是避免创建过大的图并且将它们分解成更小的单元以便后面可以将它们链接起来。你可以使用Creately(一个工具平台)轻松做到。它会帮助你提高你的图的可读性。
 
 - Using the simple class notation, you can quickly create a high-level overview of your system. A detailed diagram can be created separately as required, and even linked to the first one for easy reference.
   > 使用简单的类符号（暂时这么翻译，notation在此处的意译还在探究中），你可以很快的给你的系统创建高级的概述。一个详细的图根据需要单独地被创建，更甚可以链接到第一个类图——前面的简单的类符号，以便方便参考。
