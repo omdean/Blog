@@ -24,7 +24,6 @@ In this easy class diagram tutorial, we've covered the key areas you need to kno
   - [Class Diagram Notations with Examples](#class-diagram-notations-with-examples)
   - [How to Draw a Class Diagram](#how-to-draw-a-class-diagram)
   - [Class Diagram Best Practices](#class-diagram-best-practices)
-  - [Class Diagram Examples / Templates](#class-diagram-examples--templates)
 
 <br/>
 
@@ -37,7 +36,7 @@ A class diagram is a UML diagram type that describes a system by visualizing the
 
 They are usually used to explore domain concepts, understand software requirements and describe detailed designs.
 
-> 类图通常被用于探究**领域概念** —— 描述业务领域，业务实体，显示最重要的业务概念和它们之间的关系，是真实世界的各种事物的表示（这个是个人的理解，是否准确还待定），理解软件要求和描述详细的设计。
+> 类图通常被用于探究*领域概念* —— 描述业务领域，业务实体，显示最重要的业务概念和它们之间的关系，是真实世界的各种事物的表示（这个是个人的理解，是否准确还待定），理解软件要求和描述详细的设计。
 
 <br/>
 
@@ -90,9 +89,46 @@ For a full list of class diagram notations/ class diagram symbols refer to this 
 
 ### How to Draw a Class Diagram
 
+Class diagrams go hand in hand with [object-oriented design](https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_object_oriented_design.htm). So knowing its basics is a key part of being able to draw good class diagrams.
+> 类图和面向对象设计是配合进行的。所以了解它的基本的知识是能够画好类图的一个关键部分。
+
+When required to describe the static view of a system or its functionalities, you'd be required to [draw a class diagram](https://creately.com/diagram-type/class-diagram). Here are the steps you need to follow to create a class diagram.
+> 当需要描述一个系统静态视图或者功能时，你会被要求去画一张类图。下面是你创建类图时需要遵守的步骤。
+
+Step 1: Identify the class names
+> 第一步：辨别类名
+
+The first step is to identify the primary objects of the system.
+> 第一步是要识别系统的主要的对象。
+
+Step 2: Distinguish relationships
+> 第二步：区分对象之间的关系
+
+Next step is to determine how each of the classes or objects are related to one another. Look out for commonalities and abstractions among them; this will help you when grouping them when drawing the class diagram.
+> 下一步要决定的是类或对象是怎么彼此关联的。注意它们之间的共同性和抽象性；当你画类图时这将会帮助你组合它们。
+
+Step 3: Create the Structure
+> 第三步：创建结构
+
+First, add the class names and link them with the appropriate connectors. You can add attributes and functions / methods/ operations later.
+> 首先，添加类名并且用合适的连接器链接它们。你可以稍后再添加属性和函数/方法/操作。
+
 ### Class Diagram Best Practices
 
-### Class Diagram Examples / Templates
+- Class diagrams may tend to get incoherent as they expand and grow. It's best to avoid creating large diagrams and breaking them down into smaller ones that you can link to each other later. You can very easily do this with Creately. It helps you improve the readability of your diagrams.
+  > 随着展开和增长，类图可能会有难以分辨的趋势。最好的方式是避免创建过大的图并且将它们拆分成更小的单元以便后面可以将它们链接起来。你可以使用Creately（一个工具平台）轻松做到。它会帮助你提高你的图的可读性。
+
+- Using the simple class notation, you can quickly create a high-level overview of your system. A detailed diagram can be created separately as required, and even linked to the first one for easy reference.
+ > 使用简单的类符号（暂时这么翻译，notation在此处的意译还在探究中），你可以很快的给你的系统创建高级的概述。一个详细的图根据需要单独地被创建，更甚可以链接到第一个类图——前面的简单的类符号，以便方便参考。
+
+- The more lines overlap on your class diagrams, the more cluttered it becomes. The reader will only get confused trying to find the path. Make sure that no two lines cross each other.
+  > 越多的连线交叠在类图上，就会变得越杂乱。读者仅仅在寻找路径上就会感到困惑。确保不会有两条线穿过彼此。
+
+- Use colors to group common modules. Different colors on different classes help the reader differentiate between the various groups.
+  > 使用颜色去组合相同的模块。在不同的类上使用不同的颜色会帮助读者区分各种各样的分组。
+
+The following is omitted.
+后面的内容已省略，详情请查看原文。
 
 
 
