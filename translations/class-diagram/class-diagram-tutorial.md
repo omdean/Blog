@@ -137,7 +137,7 @@ First, add the class names and link them with the appropriate connectors. You ca
 
 <br/>
 
-后面的内容已省略，详情请查看[原文](https://creately.com/blog/diagrams/class-diagram-tutorial)。
+后面的内容已省略，详情请查看[原文](https://creately.com/blog/diagrams/class-diagram-tutorial/#Templates)。
 
 
 
