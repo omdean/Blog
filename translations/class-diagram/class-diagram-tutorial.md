@@ -37,7 +37,7 @@ A class diagram is a UML diagram type that describes a system by visualizing the
 
 They are usually used to explore domain concepts, understand software requirements and describe detailed designs.
 
-> 类图通常被用于探究`领域概念` —— 描述业务领域，业务实体，显示最重要的业务概念和它们之间的关系，是真实世界的各种事物的表示（这个是个人的理解，是否准确还待定），理解软件要求和描述详细的设计。
+> 类图通常被用于探究**领域概念** —— 描述业务领域，业务实体，显示最重要的业务概念和它们之间的关系，是真实世界的各种事物的表示（这个是个人的理解，是否准确还待定），理解软件要求和描述详细的设计。
 
 <br/>
 
@@ -48,7 +48,6 @@ There are several class diagram notations that are used when drawing UML class d
 > 当画UML类图当时，这里有数个类图符号可以使用，下面我们罗列了最通用的符号。
 
 #### Class
-<br/>
 
 ![class notation](./assets/Class-Notation.png)
 
@@ -59,8 +58,8 @@ The first one shows the class’s name, while the middle one shows the class’s
 
 > 第一个区域表示的是类的名称，而中间的区域表示的是类的属性，这些属性是对象的特征。最底部列出类的一些操作，它们代表了类的行为。
 
+#### Simple Class
 ![simple class](./assets/Simple-Class.png)<br/>
-Simple Class
 
 The last two compartments are optional. The class notation without the last two compartments is called a simple class and it only contains the name of the class.
 
