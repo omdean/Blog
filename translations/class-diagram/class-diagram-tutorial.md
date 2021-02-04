@@ -119,7 +119,7 @@ First, add the class names and link them with the appropriate connectors. You ca
   > 随着展开和增长，类图可能会有难以分辨的趋势。最好的方式是避免创建过大的图并且将它们拆分成更小的单元以便后面可以将它们链接起来。你可以使用Creately（一个工具平台）轻松做到。它会帮助你提高你的图的可读性。
 
 - Using the simple class notation, you can quickly create a high-level overview of your system. A detailed diagram can be created separately as required, and even linked to the first one for easy reference.
- > 使用简单的类符号（暂时这么翻译，notation在此处的意译还在探究中），你可以很快的给你的系统创建高级的概述。一个详细的图根据需要单独地被创建，更甚可以链接到第一个类图——前面的简单的类符号，以便方便参考。
+  > 使用简单的类符号（暂时这么翻译，notation在此处的意译还在探究中），你可以很快的给你的系统创建高级的概述。一个详细的图根据需要单独地被创建，更甚可以链接到第一个类图——前面的简单的类符号，以便方便参考。
 
 - The more lines overlap on your class diagrams, the more cluttered it becomes. The reader will only get confused trying to find the path. Make sure that no two lines cross each other.
   > 越多的连线交叠在类图上，就会变得越杂乱。读者仅仅在寻找路径上就会感到困惑。确保不会有两条线穿过彼此。
@@ -127,8 +127,9 @@ First, add the class names and link them with the appropriate connectors. You ca
 - Use colors to group common modules. Different colors on different classes help the reader differentiate between the various groups.
   > 使用颜色去组合相同的模块。在不同的类上使用不同的颜色会帮助读者区分各种各样的分组。
 
-The following is omitted.
-后面的内容已省略，详情请查看原文。
+<br/>
+
+后面的内容已省略，详情请查看[原文]((https://creately.com/blog/diagrams/class-diagram-tutorial))。
 
 
 
