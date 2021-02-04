@@ -95,6 +95,8 @@ Class diagrams go hand in hand with [object-oriented design](https://www.tutoria
 When required to describe the static view of a system or its functionalities, you'd be required to [draw a class diagram](https://creately.com/diagram-type/class-diagram). Here are the steps you need to follow to create a class diagram.
 > 当需要描述一个系统静态视图或者功能时，你会被要求去画一张类图。下面是你创建类图时需要遵守的步骤。
 
+<br/>
+
 Step 1: Identify the class names
 > 第一步：辨别类名
 
@@ -112,6 +114,8 @@ Step 3: Create the Structure
 
 First, add the class names and link them with the appropriate connectors. You can add attributes and functions / methods/ operations later.
 > 首先，添加类名并且用合适的连接器链接它们。你可以稍后再添加属性和函数/方法/操作。
+
+<br/>
 
 ### Class Diagram Best Practices
 
